@@ -29,6 +29,5 @@
 - 사용자 경험(UX)을 고려한 최적화된 웹 서비스를 만들고 싶습니다.
 
 ## 연락처 ✉️
-- **GitHub**: [GitHub 프로필 링크](https://github.com/YourGitHubID)
 - **Notion**: [Notion 링크](https://butternut-option-ad9.notion.site/Dev-5e7fd45590ea495f8826d24099ecc206)
 
