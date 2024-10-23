@@ -2,7 +2,7 @@
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://butternut-option-ad9.notion.site/Dev-5e7fd45590ea495f8826d24099ecc206)
 
--
+#
 
 ## 소개
 - 암호화폐 거래소 운영팀 팀장으로 일하고 있습니다.
