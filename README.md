@@ -18,7 +18,7 @@
 - **Node.js**, **MongoDB**, **MySQL (AWS RDS)**
 
 ### **DevOps & Cloud**
-- **AWS (EC2, S3, RDS, Lambda)**, Docker, Nginx
+- **AWS (EC2, S3, RDS, CloudFront,Route53)**, Docker, Nginx
 - CI/CD, GitHub Actions
 
 ### **Collaboration Tools**
@@ -42,7 +42,7 @@
 ### **3. 암호화폐 거래소 운영 & 백오피스 관리** 💰
 - **암호화폐 거래소 운영팀 팀장**으로서 **백오피스 기획 및 관리**
 - **Vue.js 기반 거래소 프론트엔드 유지보수 및 협업**
-- **ISMS 인증 심사 준비 (6~7개월간 보안 규정 학습)**
+- **ISMS 인증 심사 준비 (6~7개월간 진행 - 예비 심사 통과)**
 
 ### **4. 골프 데이팅 앱 기획 및 UI 설계** ⛳
 - **Figma를 활용한 UI/UX 기획 및 플로우 설계**
