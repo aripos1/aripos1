@@ -3,7 +3,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://butternut-option-ad9.notion.site/Dev-5e7fd45590ea495f8826d24099ecc206)
 
 ## 🚀 About Me
-**풀스택 개발자로 성장 중인 현성입니다.**  
+**개발자로 성장 중인 현성입니다.**  
 현재 다양한 프로젝트를 진행하며 **백엔드(Spring Boot, FastAPI)와 프론트엔드(React)** 를 공부하고 있습니다.  
 또한 **AI 및 머신러닝**에 관심이 많아 **번역 AI 프로젝트(GORANI)** 를 진행하고 있습니다.  
 
